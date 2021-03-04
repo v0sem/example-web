@@ -14,7 +14,46 @@
     padding-right: 20px;
 }
 
+#initial-text{
+    margin-top: 300px;
+}
 
 .bg-dark-transparent{
     background-color: rgb(0, 0, 0, 0.3);
+}
+
+.text-jumbo{
+    color: #94A4A4;
+}
+
+#jumbo1 .text-jumbo{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#jumbo2 .face-img{
+    height: 200px;
+    width: 400px;
+}
+
+#jumbo4 a{
+    padding: 0;
+}
+
+#footer {
+    bottom: 0px;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.link-unstyled, .link-unstyled:link {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.img-button {
+    height: 30px;
+    margin-left: -40px !important;
+    margin-top: 4px;
+    position: relative;
 }
